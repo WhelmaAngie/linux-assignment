@@ -76,4 +76,4 @@ Performed more than 25 Linux commands covering:
 
 ## Screenshots
 
-All evidence is available in the screenshots folder.
+All evidence is available in the screenshots uploaded.
